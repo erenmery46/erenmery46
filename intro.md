@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Meryem!
+- 📫 How to reach: erenmeryem46@gmail.com
+- 👀 I’m interested in computational sciences!
+- 🌱 I’m currently learning to apply ML and DL in Python
+- ✨ I'm a proud owner of a TensorFlow certificate (want to make use of it before 4 years and counting) 
+- ⚡ Fun facts: I'm a big fan of Gintama and One Piece 🏴‍☠️ and I love PC gaming 🧙
